@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297497611789",
+    "project_id": "flutter-integration-63548",
+    "storage_bucket": "flutter-integration-63548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297497611789:android:e37a90dbac3f8368b10f44",
+        "android_client_info": {
+          "package_name": "com.example.flutter_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C84wbvkyn9VjukNJiRQcBdjy8dl3VPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
